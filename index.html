@@ -94,7 +94,98 @@
 
             </aside>
             <br>
+            <div class="container-divisions">
 
+
+
+                <hr class="hr">
+                </hr>
+                <h4 class="text-divisions">Sua seleção especial</h4>
+                <hr class="hr">
+                </hr>
+
+
+            </div>
+
+            <div class="row" id="zone"></div>
+
+            <div class="ContainerBtnList">
+                <button id="btn-api-plus" onClick="getListPlus()" class="btn-plus-products">
+                    Ainda mais produtos aqui!
+                </button>
+            </div>
+
+            <div class="row" id="zonesPlus"></div>
+
+
+
+
+            <div class="ContainerBtnList">
+                <button id="btn-api-remove" onClick="removeListPlus()" class="btn-less-products">Mostrar menos
+                    produtos</button>
+            </div>
+
+            <br>
+            <br>
+
+            <div class="container-divisions">
+
+
+
+                <hr class="hr">
+                </hr>
+                <h4 class="text-divisions">Compartilhe a novidade</h4>
+                <hr class="hr">
+                </hr>
+
+
+            </div>
+
+
+            <section>
+                <p class="title-friends-share">
+                    Quer que seus amigos também ganhem a lista personalizada deles? Preencha agora!
+                </p>
+
+
+
+                <form method="POST" action="" onsubmit="return false;" name="formShare">
+                    <div class="form-share">
+
+                        <label class="label-share" for="nameFriend">Nome do seu amigo:
+                            <input type="text" id="nameFriend" required class="inputNameShare" name="name"
+                                placeholder="Digite o nome">
+                        </label>
+
+                        <label class="label-share" for="emailFriend">Email dele:
+
+                            <input type="email" class="inputEmailShare" id="emailFriend" name="email" required
+                                placeholder="Digite o e-mail do seu amigo">
+                        </label>
+
+
+                        <br>
+
+
+
+                    </div>
+                    <button class="btn-form-share" onclick="ValidationForm()">Enviar Agora</button>
+
+                </form>
+            </section>
+
+
+            <div class="container-footer">
+
+
+                <footer>
+
+                    <span class="text-footer">Testando suas habilidades em HTML,CSS E JAVASCRIPT</span>
+                    <span class="text-footer">Linx Impulse</span>
+                    <span class="text-footer">2019</span>
+                </footer>
+
+</div>
             </main>
 
 </div>
