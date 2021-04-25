@@ -4,7 +4,7 @@ function ValidationForm() {
   let Email = formShare.email.value;
 
   let regexEmail = /\S+@\S+\.\S+/;
-  let emailValid = regexEmail.test(Email);
+  let emailValid = regexEmail.test(Email)
 
   if (Name == "") {
     alert("Campo nome vázio!");
