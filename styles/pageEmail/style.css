@@ -1,0 +1,111 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 1.6rem;
+    padding:0;
+}
+.container {
+    position: relative;
+    text-align: center;
+    max-width: 100vw;
+    box-sizing: border-box;
+    min-height: 100vh;
+    max-height: 100vh;
+    align-items: center;
+    overflow: auto;
+    bottom:0;
+}
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.header-email {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+    max-width: 100%;
+    min-height: 199px;
+    position: relative;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 70%);
+    padding: 20px;
+}
+.text-header-1-email {
+    margin-top: -8%;
+    font-family: Helvetica;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    font-size: 1.35rem;
+}
+.text-header-2-email {
+    margin-top: -1%;
+    text-align: center;
+    font-family: Helvetica;
+    font-weight: bold;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    font-size: 2.5rem;
+}
+.text-header-3-email {
+    font-size: 0.88rem;
+    text-align: center;
+font-family:  Helvetica;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+position: relative;
+width: 400px;
+}
+
+
+.container-footer {
+    font-family: Helvetica;
+    font-size: 0.88rem;
+    color: #FFFFFF;
+    opacity: 1;
+    text-align: center;
+    line-height: 24px;
+}
+
+.footer-email {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(0, 0, 0);
+    min-width: 98%;
+    max-width: 100%;
+    min-height: 158px;
+    margin-top: 15vh;
+    padding-top: 80px;
+    clip-path: polygon(0 30%, 100% 0, 100% 100%, 0 100%, 0 19%);
+}
+
+
+.article-hello {
+    text-align: left;
+    font-family:  Helvetica;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+.text-email {
+    text-align: left;
+    font-family: Helvetica;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+    font-size: 0.88rem;
+}
+.article-text-email {
+    padding: 10px;
+    margin-left: 25px;
+}
