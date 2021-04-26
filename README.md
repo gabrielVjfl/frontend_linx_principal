@@ -2,7 +2,11 @@
 
 ## 💻 Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
+Link da tela inicial
+https://gabrielvjfl.github.io/frontend_linx_principal/index.html
+
+Link template de email
+https://gabrielvjfl.github.io/frontend_linx_principal/email.html
 
 É um desafio da Linx Impulse em que a aplicação Frontend consome uma api de produtos, sendo responsiva para todas as telas.
 
