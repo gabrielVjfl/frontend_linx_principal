@@ -45,7 +45,7 @@ A aplicação conta com uma página de email que será enviada para o usuário c
 - HTML / CSS / JS 
 
 ## Implantação em produção
-- Front end web: Heroku
+- Front end web: GitHub Pages
 
 # Como executar o projeto
 ## Front end web
@@ -54,8 +54,7 @@ A aplicação conta com uma página de email que será enviada para o usuário c
 git clone https://github.com/gabrielVjfl/desafio_frontend_linx_principal.git
 
 # entrar na pasta do projeto front-end
-cd desafio_frontend_linx_principal
-cd screens
+cd frontend_linx_principal
 cd index.html | cd email.html
 
 ```
