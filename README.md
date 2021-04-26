@@ -24,8 +24,10 @@ A aplicação também tem cards de produtos da loja com um botão abaixo "Ainda 
 A aplicação conta com uma página de email que será enviada para o usuário cadastrado
 
 ## Layout web
-![Web 1](https://github.com/gabrielVjfl/frontend_linx_principal/blob/main/assets/tela1.png
+![Web 1](https://github.com/gabrielVjfl/frontend_linx_principal/blob/main/assets/tela1.png)
+
 ![Web 2](https://github.com/gabrielVjfl/frontend_linx_principal/blob/main/assets/tela4.png)
+
 ![Web 3](https://github.com/gabrielVjfl/frontend_linx_principal/blob/main/assets/tela6.png)
 
 ## Layout mobile
