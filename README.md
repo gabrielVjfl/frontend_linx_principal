@@ -25,16 +25,16 @@ A aplicação conta com uma página de email que será enviada para o usuário c
 
 
 ## Layout mobile
-![Mobile 1](https://github.com/gabrielVjfl/desafio_frontend_linx_principal/blob/main/assets/tela3.png) ![Mobile 2](https://github.com/gabrielVjfl/desafio_frontend_linx_principal/blob/main/assets/tela2.png)
-![Mobile 3](https://github.com/gabrielVjfl/desafio_frontend_linx_principal/blob/main/assets/tela5.png)
-![Mobile 4](https://github.com/gabrielVjfl/desafio_frontend_linx_principal/blob/main/assets/tela7.png)
+![Mobile 1](https://github.com/gabrielVjfl/frontend_linx_principal/blob/main/assets/tela3.png) ![Mobile 2](https://github.com/gabrielVjfl/frontend_linx_principal/blob/main/assets/tela2.png)
+![Mobile 3](https://github.com/gabrielVjfl/frontend_linx_principal/blob/main/assets/tela5.png)
+![Mobile 4](https://github.com/gabrielVjfl/frontend_linx_principal/blob/main/assets/tela7.png)
 
 ## Layout web
-![Web 1](https://github.com/gabrielVjfl/desafio_frontend_linx_principal/blob/main/assets/tela1.png)
+![Web 1](https://github.com/gabrielVjfl/frontend_linx_principal/blob/main/assets/tela1.png)
 
-![Web 2](https://github.com/gabrielVjfl/desafio_frontend_linx_principal/blob/main/assets/tela4.png)
+![Web 2](https://github.com/gabrielVjfl/frontend_linx_principal/blob/main/assets/tela4.png)
 
-![Web 3](https://github.com/gabrielVjfl/desafio_frontend_linx_principal/blob/main/assets/tela6.png)
+![Web 3](https://github.com/gabrielVjfl/frontend_linx_principal/blob/main/assets/tela6.png)
 
 <h4 align="center"> 
 	 Desafio Frontend Linx🚀 Concluído 
@@ -51,7 +51,7 @@ A aplicação conta com uma página de email que será enviada para o usuário c
 ## Front end web
 ```bash
 # clonar repositório
-git clone https://github.com/gabrielVjfl/desafio_frontend_linx_principal.git
+git clone https://github.com/gabrielVjfl/frontend_linx_principal.git
 
 # entrar na pasta do projeto front-end
 cd frontend_linx_principal
